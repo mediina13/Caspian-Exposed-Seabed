@@ -1,6 +1,7 @@
 # Newly exposed Caspian seabed along Azerbaijan's coast, 2017–2026
 
 [![reproduce](https://github.com/mediina13/Caspian-Exposed-Seabed/actions/workflows/reproduce.yml/badge.svg)](https://github.com/mediina13/Caspian-Exposed-Seabed/actions/workflows/reproduce.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24141016.svg)](https://doi.org/10.5281/zenodo.24141016)
 ![code license](https://img.shields.io/badge/code-MIT-blue.svg)
 ![data license](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)
 ![python](https://img.shields.io/badge/python-3.13-blue.svg)
@@ -151,11 +152,12 @@ Details, settings and limits are in [docs/methods.md](docs/methods.md).
 ## How to cite
 
 If you use the code or the tables, please cite this repository. GitHub shows the citation
-under "Cite this repository", taken from [CITATION.cff](CITATION.cff).
+under "Cite this repository", taken from [CITATION.cff](CITATION.cff). Each release is
+archived on Zenodo. The DOI below covers all versions and resolves to the latest one.
 
 > Ziyadkhanova, M. (2026). *Newly exposed Caspian seabed along Azerbaijan's coast,
-> 2017–2026: code and data* (version 1.0.0).
-> https://github.com/mediina13/Caspian-Exposed-Seabed
+> 2017–2026: code and data* (version 1.0.0). Zenodo.
+> https://doi.org/10.5281/zenodo.24141016
 
 ## License
 
