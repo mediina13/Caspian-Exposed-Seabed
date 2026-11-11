@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or these tables, please cite the repository as below."
+type: software
+title: "Newly exposed Caspian seabed along Azerbaijan's coast, 2017-2026: code and data"
+abstract: >-
+  Google Earth Engine and Python code, input tables and results for a yearly map of the
+  seabed exposed by the falling Caspian Sea along the coast of Azerbaijan from 2017 to
+  2026, its link to sea level, the vegetation that follows, and the protected areas and
+  population next to it.
+authors:
+  - family-names: Ziyadkhanova
+    given-names: Medina
+    affiliation: "Independent researcher, Baku, Azerbaijan"
+version: 1.0.0
+date-released: "2026-11-11"
+license: MIT
+repository-code: "https://github.com/mediina13/Caspian-Exposed-Seabed"
+keywords:
+  - Caspian Sea
+  - sea-level decline
+  - exposed seabed
+  - shoreline change
+  - Sentinel-2
+  - Google Earth Engine
+  - NDVI
+  - Azerbaijan
