@@ -1,0 +1,11 @@
+,value
+n_labelled,139.0
+n_unsure,11.0
+exposed_user_acc,0.9545454545454546
+exposed_user_acc_95ci,0.0622599560984794
+overall_acc_area_weighted,0.9207155439412447
+overall_acc_95ci,0.05012247603048561
+exposed_area_mapped_km2,297.989
+exposed_area_estimated_km2,345.5475348162476
+exposed_area_95ci_km2,60.795843832636194
+exposed_producer_acc,0.8231690774636976

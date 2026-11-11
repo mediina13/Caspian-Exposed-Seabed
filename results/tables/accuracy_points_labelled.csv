@@ -1,0 +1,151 @@
+id,stratum,lon,lat,label_2017,label_2026,note,ref,mapc
+1,2,49.110911,41.327452,water,water,,water,water
+2,2,48.812357,38.884284,land,land,,land,water
+3,2,49.174066,41.110856,water,land,,exposed,water
+4,3,48.872118,38.658145,land,land,,land,land
+5,1,49.145541,41.201737,water,land,,exposed,exposed
+6,2,49.157206,41.177065,water,water,,water,water
+7,3,49.271229,39.515127,land,land,,land,land
+8,2,49.58433,40.222465,water,water,,water,water
+9,1,49.091296,39.229044,water,land,2017 shallow water with floating/submerged vegetation,exposed,exposed
+10,2,49.848647,40.368278,water,water,,water,water
+11,1,49.070169,39.112104,water,land,,exposed,exposed
+12,3,49.036623,39.220563,land,land,,land,land
+13,1,49.416748,39.948761,water,land,,exposed,exposed
+14,2,50.031952,40.300227,water,water,,water,water
+15,2,49.426451,39.913574,water,water,,water,water
+16,1,49.106265,38.990518,water,land,,exposed,exposed
+17,3,49.390537,39.304742,land,land,,land,land
+18,1,49.281958,39.334368,water,land,2026 wet ground with wetland vegetation,exposed,exposed
+19,2,49.449125,39.862705,water,water,,water,water
+20,1,49.196709,39.129628,water,land,,exposed,exposed
+21,3,49.207504,39.178451,land,land,,land,land
+22,3,49.420021,40.060698,land,land,,land,land
+23,1,49.074556,38.942065,water,land,,exposed,exposed
+24,2,50.351554,40.27345,water,water,,water,water
+25,3,49.083613,39.179361,land,land,,land,land
+26,1,48.940123,39.145556,water,land,2017 shallow water with floating vegetation,exposed,exposed
+27,1,49.066222,39.095641,water,land,,exposed,exposed
+28,2,49.463439,40.017315,water,water,,water,water
+29,3,49.079979,39.15966,land,land,,land,land
+30,3,49.051324,39.208198,unsure,land,2017 wet mud vs shallow water,unsure,land
+31,3,48.846259,38.853378,land,land,,land,land
+32,1,50.363049,40.301984,water,land,,exposed,exposed
+33,2,48.881428,41.586994,water,water,,water,water
+34,2,49.95213,40.333407,water,water,,water,water
+35,1,49.149242,39.086897,water,land,,exposed,exposed
+36,1,49.1216,39.091681,water,unsure,2026 marker on turbid water / mud edge,unsure,exposed
+37,3,50.278228,40.443471,land,land,,land,land
+38,2,48.878869,38.662952,water,water,,water,water
+39,2,49.242901,39.253774,water,water,,water,water
+40,2,48.713543,41.754719,water,water,,water,water
+41,3,49.419258,40.093659,land,land,,land,land
+42,3,49.722638,40.280108,land,land,,land,land
+43,2,49.443877,39.856872,water,water,,water,water
+44,1,49.142098,41.21375,land,land,beach in both years,land,exposed
+45,2,49.181981,41.100172,water,water,,water,water
+46,2,49.428052,39.843504,water,water,,water,water
+47,3,49.440956,40.026924,land,land,,land,land
+48,2,50.333637,40.492633,water,water,,water,water
+49,1,49.180433,39.132799,water,land,,exposed,exposed
+50,3,48.918831,38.956869,land,land,,land,land
+51,3,49.077152,39.22953,land,land,,land,land
+52,2,50.030583,40.313729,water,water,,water,water
+53,3,50.279842,40.336453,land,land,,land,land
+54,3,48.756819,41.693246,land,land,,land,land
+55,1,48.944516,39.066166,water,land,2026 wetland vegetation over former water,exposed,exposed
+56,1,50.009126,40.31607,water,land,,exposed,exposed
+57,1,49.368607,39.300292,water,land,,exposed,exposed
+58,1,49.170646,38.983254,water,land,,exposed,exposed
+59,2,49.93086,40.353571,water,water,,water,water
+60,3,48.820075,38.873074,land,land,,land,land
+61,1,50.369136,40.25445,water,land,,exposed,exposed
+62,2,49.129069,41.294246,water,water,,water,water
+63,3,49.085713,39.178674,land,land,,land,land
+64,2,49.760094,40.290248,water,water,,water,water
+65,3,50.216327,40.351716,land,land,,land,land
+66,1,49.169312,41.11907,water,land,,exposed,exposed
+67,1,49.077343,39.179981,water,land,,exposed,exposed
+68,1,49.193289,39.127773,water,land,,exposed,exposed
+69,2,48.876327,38.616774,water,water,,water,water
+70,2,49.027245,41.438997,water,water,,water,water
+71,1,49.198582,39.174166,water,land,,exposed,exposed
+72,3,48.837872,38.871603,unsure,land,2017 dark wet patch inside vegetation,unsure,land
+73,2,49.419655,39.934385,water,water,,water,water
+74,3,49.140444,41.196431,land,land,,land,land
+75,1,48.937479,39.04586,water,land,,exposed,exposed
+76,2,50.288154,40.441549,water,water,,water,water
+77,1,49.545397,40.775826,water,land,,exposed,exposed
+78,3,49.524578,40.666926,land,land,,land,land
+79,1,48.947677,39.012885,water,land,,exposed,exposed
+80,3,50.361573,40.25837,land,land,,land,land
+81,1,49.253469,39.341512,unsure,land,2017 sand bar vs shallow water,unsure,exposed
+82,3,48.926969,39.144424,land,land,,land,land
+83,1,49.282186,40.965155,water,land,,exposed,exposed
+84,3,50.27937,40.336627,land,land,,land,land
+85,3,49.150722,41.170113,land,land,,land,land
+86,2,49.822044,40.569985,water,water,,water,water
+87,3,49.733589,40.285815,land,land,,land,land
+88,3,49.68202,40.589734,land,land,,land,land
+89,3,48.874548,38.536907,land,land,,land,land
+90,1,49.189664,39.160873,water,land,,exposed,exposed
+91,3,48.761193,41.69189,land,land,,land,land
+92,3,49.799058,40.308856,land,land,,land,land
+93,3,48.874597,38.472754,land,land,,land,land
+94,2,49.52802,40.671831,water,unsure,2026 marker on the waterline,unsure,water
+95,3,50.356294,40.418166,land,land,,land,land
+96,2,48.878383,38.476606,water,unsure,2026 dark structure (pier?) at marker,unsure,water
+97,2,49.396156,39.767565,water,water,,water,water
+98,2,49.762417,40.291715,water,water,,water,water
+99,2,49.17638,38.984788,water,water,,water,water
+100,2,49.393899,39.754201,water,water,,water,water
+101,2,48.84955,38.935252,land,land,dense green wetland vegetation (reed bed) both years,land,water
+102,3,49.157077,39.105763,land,land,2017 wetland vegetation,land,land
+103,1,48.940065,39.123751,water,land,,exposed,exposed
+104,3,50.325218,40.484656,land,land,,land,land
+105,1,48.649591,41.806565,unsure,unsure,dark edge pixel between vegetation and water,unsure,exposed
+106,2,48.875083,38.98419,land,land,dense green wetland vegetation (reed bed) both years,land,water
+107,1,50.354983,40.283742,water,land,,exposed,exposed
+108,3,50.098402,40.36455,land,land,,land,land
+109,2,49.116846,41.320527,water,water,,water,water
+110,3,49.469762,40.006948,land,land,,land,land
+111,2,49.907387,40.363261,water,water,,water,water
+112,1,49.307232,40.943007,water,land,,exposed,exposed
+113,3,48.800839,41.649787,land,land,,land,land
+114,1,48.980625,39.169693,water,unsure,2026 dark green: submerged vegetation in shallow water or wet vegetated mud,unsure,exposed
+115,2,48.891938,38.875116,water,water,,water,water
+116,1,48.93772,38.94207,water,land,,exposed,exposed
+117,3,49.288361,39.556462,land,land,,land,land
+118,2,49.242437,39.253765,water,water,,water,water
+119,1,48.944801,39.000578,water,land,,exposed,exposed
+120,1,49.043793,39.195819,water,land,,exposed,exposed
+121,1,50.360503,40.247195,water,land,,exposed,exposed
+122,1,49.046616,38.959621,water,land,,exposed,exposed
+123,2,50.305344,40.48994,water,land,,exposed,water
+124,1,49.372077,39.300702,water,land,,exposed,exposed
+125,2,49.249335,39.321267,water,land,2026 dark-green wetland vegetation,exposed,water
+126,3,50.280181,40.437353,land,land,,land,land
+127,2,49.236176,39.189157,water,water,,water,water
+128,3,49.121609,38.942832,land,land,,land,land
+129,3,49.29109,39.568578,land,land,,land,land
+130,3,49.16385,41.118441,land,land,,land,land
+131,1,50.347362,40.29361,water,water,,water,exposed
+132,2,48.880942,38.655064,water,unsure,2026 chip has no data at marker,unsure,water
+133,2,49.360001,39.667414,water,water,,water,water
+134,1,49.443823,40.096696,water,land,,exposed,exposed
+135,1,49.117426,39.118102,water,land,2017 shallow water with submerged vegetation,exposed,exposed
+136,1,49.019286,39.177925,water,land,2026 dark-green wetland vegetation,exposed,exposed
+137,2,48.660364,41.801562,water,water,,water,water
+138,2,49.446811,40.089169,water,land,2026 dark-green wetland vegetation,exposed,water
+139,2,50.364351,40.438749,water,water,,water,water
+140,1,49.398978,39.331349,unsure,land,2017 edge of a shoal,unsure,exposed
+141,3,49.250994,39.347781,land,land,,land,land
+142,1,49.047146,39.183441,water,land,,exposed,exposed
+143,2,49.419276,39.274861,water,water,,water,water
+144,3,49.675113,40.268224,land,land,,land,land
+145,1,49.39521,39.333641,unsure,land,2017 wet beach edge,unsure,exposed
+146,3,48.874004,38.873529,land,land,,land,land
+147,3,49.977417,40.591647,land,land,,land,land
+148,1,49.462208,39.946848,water,land,,exposed,exposed
+149,3,50.097198,40.366521,land,land,,land,land
+150,1,49.298889,39.468502,water,land,,exposed,exposed
