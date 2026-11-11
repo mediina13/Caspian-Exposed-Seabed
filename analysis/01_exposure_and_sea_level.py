@@ -107,7 +107,7 @@ xx = np.linspace(0, x.max() * 1.05, 50)
 ax.plot(xx, r["intercept"] + r["slope_km2_per_m"] * xx, color=INK2, lw=1, ls="--")
 ax.set_xlabel("Fall in summer level since 2017 (m)")
 ax.set_ylabel("Exposed seabed (km²)")
-ax.text(0.03, 0.95, f"{r['slope_km2_per_m']:.0f} ± {r['slope_se']:.0f} km² per metre\n"
+ax.text(0.03, 0.95, f"{r['slope_km2_per_m']:.0f} ± {r['slope_se']:.0f} km² per meter\n"
         f"R² = {r['r2']:.2f}, n = {r['n']}", transform=ax.transAxes, va="top",
         fontsize=8, color=INK)
 fig.savefig(FIG + "fig02_area_vs_sea_level.png")
