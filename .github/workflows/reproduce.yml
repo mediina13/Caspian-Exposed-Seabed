@@ -1,0 +1,33 @@
+name: reproduce
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Rebuild tables and figures
+        run: make all
+
+      - name: Check the headline numbers
+        run: make test
+
+      - name: Keep the rebuilt figures
+        uses: actions/upload-artifact@v4
+        with:
+          name: figures
+          path: results/figures
