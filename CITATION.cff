@@ -10,7 +10,8 @@ abstract: >-
 authors:
   - family-names: Ziyadkhanova
     given-names: Medina
-    affiliation: "Independent researcher, Baku, Azerbaijan"
+    affiliation: "Baku Higher Oil School, Baku, Azerbaijan"
+    orcid: "https://orcid.org/0009-0002-1426-8342"
 version: 1.0.0
 date-released: "2026-11-11"
 license: MIT

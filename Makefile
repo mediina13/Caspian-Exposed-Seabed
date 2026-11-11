@@ -1,6 +1,6 @@
 PY ?= python
 
-.PHONY: all exposure accuracy extended map test clean
+.PHONY: all exposure accuracy extended map studyarea workflow test clean
 
 all: exposure accuracy extended map
 
@@ -15,6 +15,12 @@ extended:      ## long-term record, retreat, protected areas, population, depth 
 
 map:           ## before/after map figure
 	$(PY) analysis/04_map_figure.py
+
+studyarea:     ## study area map (needs basemap and basemap-data-hires)
+	$(PY) analysis/05_study_area_map.py
+
+workflow:      ## workflow diagram
+	$(PY) analysis/06_workflow_diagram.py
 
 test:          ## check the headline numbers
 	$(PY) -m pytest -q

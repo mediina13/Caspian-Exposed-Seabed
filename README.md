@@ -49,6 +49,8 @@ analysis/                 Python scripts that build every table and figure
   02_accuracy.py
   03_extended.py
   04_map_figure.py
+  05_study_area_map.py      study area map (needs basemap, see below)
+  06_workflow_diagram.py    workflow diagram
   common.py                 shared paths and figure style
 data/                     inputs to the Python scripts (see data/README.md)
   earth_engine/             tables printed by gee/01_exposed_seabed.js
@@ -58,7 +60,7 @@ data/                     inputs to the Python scripts (see data/README.md)
   map_panels/               image panels for the before/after figure
 results/
   tables/                   19 output tables
-  figures/                  11 figures
+  figures/                  13 figures
 docs/methods.md           methods, settings and limits in one page
 tests/                    checks on the headline numbers
 ```
@@ -87,6 +89,15 @@ python -m pytest -q
 ```
 
 The same steps run on every push through GitHub Actions (`.github/workflows/reproduce.yml`).
+
+Two more figures, the study area map and the workflow diagram, are not part of `make all`.
+The map needs two extra packages:
+
+```bash
+pip install basemap basemap-data-hires
+python analysis/05_study_area_map.py     # or: make studyarea
+python analysis/06_workflow_diagram.py   # or: make workflow
+```
 
 ## Reproduce the satellite analysis
 
@@ -153,5 +164,6 @@ Code is released under the [MIT License](LICENSE). Tables and figures are releas
 
 ## Contact
 
-Medina Ziyadkhanova, independent researcher, Baku, Azerbaijan. Questions and corrections
+Medina Ziyadkhanova, Baku Higher Oil School, Baku, Azerbaijan
+(ORCID [0009-0002-1426-8342](https://orcid.org/0009-0002-1426-8342)). Questions and corrections
 are welcome through the repository's issue tracker.
